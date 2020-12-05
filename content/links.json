@@ -2,26 +2,6 @@
   "links": [
     {
       "categories_slugs": [
-        "open-source",
-        "productivity",
-        "design",
-        "finance",
-        "ideas",
-        "trends",
-        "communication",
-        "well-being",
-        "books",
-        "food",
-        "learning",
-        "cryptocurrency"
-      ],
-      "name": "Get Started with CuratedStack (No-Code) Template",
-      "description": "Create for free your own curated collection of websites for free",
-      "url": "https://github.com/sandoche/CuratedStack-nocode-template",
-      "icon": "/images/logos/icon.png"
-    },
-    {
-      "categories_slugs": [
         "books",
         "food",
         "well-being"
@@ -57,14 +37,6 @@
       "description": "Collection of free design tools and resources for makers, developers and designers",
       "url": "https://undesign.learn.uno/",
       "icon": "/images/logos/undesign.png"
-    },
-    {
-      "categories_slugs": [
-        "open-source"
-      ],
-      "name": "Mobile App Landing Page Template",
-      "description": "📱 Free to use static generated landing page template for your mobile app",
-      "url": "https://github.com/sandoche/Mobile-app-landingpage-template"
     },
     {
       "categories_slugs": [
@@ -210,14 +182,6 @@
     },
     {
       "categories_slugs": [
-        "open-source"
-      ],
-      "name": "Jekyll-webpack-boilerplate",
-      "description": "A Jekyll boilerplate supercharged with Webpack to build modern performant websites (including Progressive Web Apps)",
-      "url": "https://github.com/sandoche/Jekyll-webpack-boilerplate"
-    },
-    {
-      "categories_slugs": [
         "open-source",
         "productivity",
         "design",
@@ -235,6 +199,15 @@
       "description": "Get started with the CuratedStack (No-Code) Template",
       "url": "https://github.com/sandoche/CuratedStack-nocode-template",
       "icon": "/images/logos/icon.png"
+    },
+    {
+      "name": "Test",
+      "description": "shdhaskdh",
+      "url": "arsachdeva.com",
+      "icon": "/images/logos/icon.png",
+      "categories_slugs": [
+        "opensource"
+      ]
     }
   ]
 }
