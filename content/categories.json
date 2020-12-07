@@ -1,76 +1,34 @@
 {
   "categories": [
     {
-      "slug": "open-source",
-      "name": "Open Source",
-      "description": "best free open source tools for your next projects",
-      "icon": "🔨"
+      "slug": "tools",
+      "name": "Tools",
+      "description": "Cloud software and tools to help you manage your freelancing career.",
+      "icon": "🧰"
     },
     {
-      "slug": "productivity",
-      "name": "Productivity",
-      "description": "best free productivity tools",
-      "icon": "⌚"
+      "slug": "blogs",
+      "name": "Blogs",
+      "description": "Discover informative blogs on freelancing journey and how to tackle the challenges that come with it. ",
+      "icon": "✍️"
     },
     {
-      "slug": "communication",
-      "name": "Communication",
-      "description": "best communication tools",
-      "icon": "💬"
-    },
-    {
-      "slug": "finance",
-      "name": "Finance",
-      "description": "best finance tools",
-      "icon": "💰"
-    },
-    {
-      "slug": "cryptocurrency",
-      "name": "Cryptocurrency",
-      "description": "best cryptocurrency tools",
-      "icon": "₿"
-    },
-    {
-      "slug": "trends",
-      "name": "Trends",
-      "description": "best trends tools",
-      "icon": "📈"
-    },
-    {
-      "slug": "ideas",
-      "name": "Ideas",
-      "description": "best idea generation tools",
-      "icon": "💡"
-    },
-    {
-      "slug": "design",
-      "name": "Design",
-      "description": "best designs tools",
-      "icon": "🎨"
-    },
-    {
-      "slug": "well-being",
-      "name": "Well-being",
-      "description": "best well-being tools",
-      "icon": "🍀"
-    },
-    {
-      "slug": "books",
-      "name": "Books",
-      "description": "best books",
+      "slug": "resources",
+      "name": "Downloadable Resources",
+      "description": "eBooks, Guides, PDFs and more for quick reference or when you need more than just a blog. ",
       "icon": "📚"
     },
     {
-      "slug": "food",
-      "name": "Food",
-      "description": "best resources for food lovers",
-      "icon": "🥑"
+      "slug": "platforms",
+      "name": "Platforms",
+      "description": "Cool websites, platforms and blogs you must keep handy for routine tasks.  ",
+      "icon": "💻"
     },
     {
-      "slug": "learning",
-      "name": "Learning",
-      "description": "best learning tools",
-      "icon": "🎓"
+      "slug": "newsletters",
+      "name": "Newsletters",
+      "description": "Must-subscribe newsletters if you want regular dose of motivation, tips and helpful material. ",
+      "icon": "📃"
     }
   ]
 }
