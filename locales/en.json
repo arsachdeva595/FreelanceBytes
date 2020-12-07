@@ -1,17 +1,17 @@
 {
-  "title": "CuratedStack (No-Code) Template",
-  "description": "Build a curated directory of websites without or with code",
+  "title": "FreelanceHub by Anmol Ratan Sachdeva | Resources, Tools & More",
+  "description": "There's nothing better than having your own freelancing library at your disposal. FreelanceHub is your very own freelancing library where you'll find blogs, tips, tools, resources and more to become a better freelancer.  ",
   "tools": {
-    "title": "Tools & Resources",
-    "description": "Find the tool you need in each category"
+    "title": "Discover a tool or tip to get better at freelancing",
+    "description": "Browse through this directory to find something useful and don't forget to share it with others. After all sharing is caring. :)  "
   },
   "footer": {
-    "title": "Any tool to suggest?",
-    "description": "Any idea? Any amazing tool forgotten? Feel free to send it!",
-    "copyright": "Made with ❤️ in Europe 🇪🇺 by ",
+    "title": "Did I miss something? ",
+    "description": "Email me at contact@arsachdeva.com or submit a resource to be added to FreelanceHub today. ",
+    "copyright": "Curated, managed and built with love by ",
     "author": {
-      "name": "Sandoche",
-      "website": "https://www.sandoche.com"
+      "name": "Anmol Ratan Sachdeva",
+      "website": "https://www.arsachdeva.com"
     }
   },
   "buttons": {
@@ -19,7 +19,7 @@
       "back": "Back"
     },
     "footer": {
-      "contact": "Contact"
+      "contact": "Share a Tool"
     }
   },
   "lunr-module": {
